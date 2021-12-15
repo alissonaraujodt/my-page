@@ -1,0 +1,29 @@
+* {
+    text-align: justify;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.sobre {
+    margin-top: 100px;
+}
+
+.habilidades {
+   margin-top: 100px;
+}
+
+aside {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+}
+
+
+span {
+    display: inline-block;
+    
+}
+
+.email {
+    margin-left: 200px;
+}
